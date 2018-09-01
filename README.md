@@ -3,3 +3,4 @@ This is a line from RStudio
 Line added from GitHub
 updated from Rstudio Sat 1st Sep
 not sure if i'm doing this correctly
+new line from Github at 15:44 
